@@ -7,7 +7,7 @@
 -->
 <h3 align="center">Android Developer - A Coding Enthusiast who's exploring his potential!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishsubah" alt="manishsubah" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishsubah" alt="manishsubah" /></a> </p>
 
   
 
