@@ -23,7 +23,7 @@
 
 - 📫 Contact me **manishranjan.soft@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/manishranjansubah/](www.linkedin.com/in/manishranjansubah)<br><br>
+- 📄 Know about my experiences [www.linkedin.com/in/manishranjansubah](www.linkedin.com/in/manishranjansubah)<br><br>
 
 <h2 align="center">My Contribution Streak !!</h2>
 
