@@ -10,20 +10,21 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishsubah" alt="manishsubah" /></a> </p>
 
   
+🌱 I’m currently exploring and building high-quality Android and Flutter applications, with a focus on creating impactful, user-friendly, and scalable products.
 
-- 🌱 I’m currently learning and building **Apps**
+👨‍💻 I have hands-on experience in native Android (Java/Kotlin) and cross-platform Flutter development, including API integration, UI/UX design, state management, and automation testing.
 
-- ⚡ Fun fact **Apart from a developer, also a satyanveshi by a ❤️**
+⚡ Fun fact: Beyond coding, I consider myself a Satyanveshi (a seeker of truth) at heart ❤️, always curious and eager to learn new things—whether in technology, philosophy, or life itself.
 
-- 🤝 I’m looking for help with **Android**
+🤝 I’m open to collaborations, mentorship, and opportunities in Android, Flutter, and mobile app development where I can contribute my skills and continue to grow.
 
-- 👨‍💻 All of my projects are available at [github.com/manishsubah](github.com/manishsubah)
+💬 I strongly believe that “Projects are the best way to learn” — I constantly push myself to build, experiment, and innovate through real-world applications.
 
-- 💬 Believes **Projects are only way to learn.**
+📂 All of my open-source work and projects can be found here: [github.com/manishsubah](github.com/manishsubah)
 
-- 📫 Contact me **manishranjan.soft@gmail.com**
+📄 You can explore my professional journey and experiences on LinkedIn: [www.linkedin.com/in/manishranjansubah](www.linkedin.com/in/manishranjansubah)
 
-- 📄 Know about my experiences [www.linkedin.com/in/manishranjansubah](www.linkedin.com/in/manishranjansubah)<br><br>
+📫 Feel free to connect with me via email: **manishranjan.soft@gmail.com**
 
 <h2 align="center">My Contribution Streak !!</h2>
 
