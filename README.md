@@ -2,9 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Manish Ranjan</h1>
 
-<!--
-**manishsubah/manishsubah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 <h3 align="center">Android & Flutter Developer - A Coding Enthusiast who's exploring his potential!</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishsubah" alt="manishsubah" /></a> </p>
